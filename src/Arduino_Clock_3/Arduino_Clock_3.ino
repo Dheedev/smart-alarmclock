@@ -47,6 +47,7 @@ void SetAlarm(void);
 void Brightness(void);
 uint8_t buttonsRead(void); 
 void setLEDonoff(void); 
+void clearAlarm();
 
 
 //***************** SETUP ************************
